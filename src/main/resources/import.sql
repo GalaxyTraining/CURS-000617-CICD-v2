@@ -1,0 +1,2 @@
+insert into project(name,description,state,created_at) values('Web App Customer On-Line','Online services 24/7','1','2026-03-29');
+insert into project(name,description,state,created_at) values('Web Mobile Customer On-Line','Online services 24/7','1','2026-03-29');
